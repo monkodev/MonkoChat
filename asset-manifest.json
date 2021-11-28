@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MonkoChat/static/css/main.4e4f6bc4.chunk.css",
-    "main.js": "/MonkoChat/static/js/main.cb441f8d.chunk.js",
-    "main.js.map": "/MonkoChat/static/js/main.cb441f8d.chunk.js.map",
-    "runtime-main.js": "/MonkoChat/static/js/runtime-main.db50cc5c.js",
-    "runtime-main.js.map": "/MonkoChat/static/js/runtime-main.db50cc5c.js.map",
-    "static/js/2.a2fe30d6.chunk.js": "/MonkoChat/static/js/2.a2fe30d6.chunk.js",
-    "static/js/2.a2fe30d6.chunk.js.map": "/MonkoChat/static/js/2.a2fe30d6.chunk.js.map",
-    "index.html": "/MonkoChat/index.html",
-    "static/css/main.4e4f6bc4.chunk.css.map": "/MonkoChat/static/css/main.4e4f6bc4.chunk.css.map",
-    "static/js/2.a2fe30d6.chunk.js.LICENSE.txt": "/MonkoChat/static/js/2.a2fe30d6.chunk.js.LICENSE.txt",
-    "static/media/logo_mkd2.38d18805.png": "/MonkoChat/static/media/logo_mkd2.38d18805.png"
+    "main.css": "/static/css/main.4e4f6bc4.chunk.css",
+    "main.js": "/static/js/main.cb441f8d.chunk.js",
+    "main.js.map": "/static/js/main.cb441f8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5cbf6a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5cbf6a9.js.map",
+    "static/js/2.2b56dd0a.chunk.js": "/static/js/2.2b56dd0a.chunk.js",
+    "static/js/2.2b56dd0a.chunk.js.map": "/static/js/2.2b56dd0a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4e4f6bc4.chunk.css.map": "/static/css/main.4e4f6bc4.chunk.css.map",
+    "static/js/2.2b56dd0a.chunk.js.LICENSE.txt": "/static/js/2.2b56dd0a.chunk.js.LICENSE.txt",
+    "static/media/logo_mkd2.38d18805.png": "/static/media/logo_mkd2.38d18805.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.db50cc5c.js",
-    "static/js/2.a2fe30d6.chunk.js",
+    "static/js/runtime-main.e5cbf6a9.js",
+    "static/js/2.2b56dd0a.chunk.js",
     "static/css/main.4e4f6bc4.chunk.css",
     "static/js/main.cb441f8d.chunk.js"
   ]
