@@ -29,7 +29,7 @@ function Chat() {
                     
                     <div>
                         <div key={id} className={`msg ${uid==auth.currentUser.uid ? 'sent':'received' }`}>
-                        <img src={photoURL} alt="" />
+                        <img className="imagURL" src={photoURL} alt="" />
                         <p>{text}</p>
                         </div>
                     </div>
